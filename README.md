@@ -51,4 +51,4 @@
 - 💼 [Hugging Face](https://huggingface.co/muskankushwah15)
 - 💼 [Medium ](https://medium.com/@muskankushwah85) 
 - 🌐 [Portfolio Website](https://portfolio-website-psi-vert-30.vercel.app/)  
-- ✉️ Email: your@email.com  
+- ✉️ Email: muskankushwah85@gmail.com 
