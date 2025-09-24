@@ -40,11 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muskan-kushwah-2845951b2/)
